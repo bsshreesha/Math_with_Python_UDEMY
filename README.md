@@ -53,5 +53,5 @@ The **Math with Python** course provides a comprehensive introduction to using P
 Clone the repository and explore the notebooks and scripts provided for each topic.
 
 ```bash
-git clone https://github.com/yourusername/Math-with-Python_UDEMY.git
+git clone https://github.com/bsshreesha/Math-with-Python_UDEMY.git
 ```
