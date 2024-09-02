@@ -55,3 +55,11 @@ Clone the repository and explore the notebooks and scripts provided for each top
 ```bash
 git clone https://github.com/bsshreesha/Math-with-Python_UDEMY.git
 ```
+
+## Star the Repository
+
+If you find this project useful or interesting, please consider starring the repository on GitHub!
+
+[![Star this repository](https://img.shields.io/github/stars/bsshreesha/Math_with_Python_UDEMY.svg?style=social)](https://github.com/bsshreesha/Math_with_Python_UDEMY/)
+
+---
